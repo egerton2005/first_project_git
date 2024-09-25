@@ -56,9 +56,11 @@
   ```
   > Пример вызова: perimeter(4, 5, 6) - вернет периметр треугольника со сторонами 4, 5 и 6
   # История коммитов и их хэшей
-    1) Add_file(rectangle.py) - e8254ad640fcb8c6725e7daa1fc71bea607934bb
-    2) Fix_file(rectangle.py), Add_file(triangle.py) - d4eb086ebf4c9fd022329d9df598e92ccb35c9fc
-    3) Merge pull request #1 - 123e7e7a56f14c5ed6b5e1b7d825e5e923e16fb7
-    4) Add_comments(all files) - fca4d783cf95f00aa84db6bbecce1ed73137f194
-    5) Merge pull request #2 - dfacf8bf73bc0b80a8259e152e7eecf830bb6242
+    1) L-03: Circle and square added - 8ba9aeb3cea847b63a91ac378a2a6db758682460
+    2) L-03: Docs added - d078c8d9ee6155f3cb0e577d28d337b791de28e2
+    3) Add_file(rectangle.py) - e8254ad640fcb8c6725e7daa1fc71bea607934bb
+    4) Fix_file(rectangle.py), Add_file(triangle.py) - d4eb086ebf4c9fd022329d9df598e92ccb35c9fc
+    5) Merge pull request #1 - 123e7e7a56f14c5ed6b5e1b7d825e5e923e16fb7
+    6) Add_comments(all files) - fca4d783cf95f00aa84db6bbecce1ed73137f194
+    7) Merge pull request #2 - dfacf8bf73bc0b80a8259e152e7eecf830bb6242
 all
